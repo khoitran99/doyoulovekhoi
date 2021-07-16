@@ -1,5 +1,5 @@
 button {
-  width: 100px;
+  width: 140px;
   height: 30px;
   display: block;
   position: absolute;
@@ -32,4 +32,9 @@ button {
 
 .colorpink{
     color: #ff99a8;
+}
+
+.img{
+  height: 300px;
+  width: 300px;
 }
