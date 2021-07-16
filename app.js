@@ -12,6 +12,6 @@ var a = document.getElementById("yes");
 a.addEventListener("click",changeText);
 function changeText()
 {
-    document.getElementById("image").src = "images/IMG_2746.JPG"
+    document.getElementById("image").src = "images/IMG_2746.jpg"
     document.getElementById("text").innerHTML = "Dear, I love U too <3";
 }
